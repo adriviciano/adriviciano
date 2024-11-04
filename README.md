@@ -9,7 +9,7 @@ I'm a **21-year-old Computer Engineering student** at UJI university, currently 
 
 ### Skills & Interests
 - 💼 **Engineering Student**: Fourth-year Computer Engineering student, eager to jump into the tech industry.
-- 🛠 **Tech Stack**: C++, Python, JavaScript, and other tools in my toolbox.
+- 🛠 **Tech Stack**: C, Java, Python, JavaScript, and other tools in my toolbox.
 - 🌱 **Currently Learning**: Diving deeper into software design patterns and 3D printing technologies.
 
 ### Get in Touch
