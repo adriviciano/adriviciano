@@ -10,7 +10,7 @@
 - 🔧 **Programming Enthusiast**: Constantly learning and honing my skills.
 - 🎨 **3D Printing Hobbyist**: Exploring the amazing world of 3D printing, bringing virtual creations to the physical world.
 - 🎯 **Focused on Tech**: Always curious about new technologies and their applications.
-- 🔭 I’m currently working on a supermarket price comparator: [DealHunt](https://github.com/adriviciano/DealHunt-frontend)
+- 🔭 I’m currently working on a supermarket price comparator: [DealHunt](https://dealhunt.adriviciano.com)
 - Also working in my [portfolio](https://adriviciano.github.io/)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
