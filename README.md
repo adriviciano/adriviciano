@@ -22,6 +22,7 @@
 
 ### Get in Touch
 - 📫 **Email**: [adriviciano@gmail.com](mailto:adriviciano@gmail.com)
-- 🌐 [currently working on it](https://adriviciano.github.io/)
+- 🌐 [currently working on it](https://www.adriviciano.com)
+- **LinkedIn**: [@adrian-viciano](https://www.linked.com/in/adrian-viciano)
 
 Let's connect, collaborate, and create something amazing! 🤝✨
