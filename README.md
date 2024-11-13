@@ -23,9 +23,6 @@
 ### Get in Touch
 - 📫 **Email**: [adriviciano@gmail.com](mailto:adriviciano@gmail.com)
 - 🌐 [currently working on it](https://www.adriviciano.com)
-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
-  <path d="M0 1.146C0 .513.324 0 .725 0h14.55c.401 0 .725.513.725 1.146v13.708c0 .633-.324 1.146-.725 1.146H.725A.723.723 0 0 1 0 14.854V1.146zM4.943 12.431V5.956H3.108v6.475h1.835zm-0.917-7.431a1.08 1.08 0 1 1 0-2.161 1.08 1.08 0 0 1 0 2.161zM12.431 12.431V8.694c0-.984-.32-1.656-1.124-1.656-.615 0-.98.413-1.141.812-.059.143-.074.343-.074.544v4.037h1.835V8.949c0-.468-.016-.862-.03-1.14-.092-.198-.304-.404-.576-.404-.398 0-.558.261-.65.44-.09.178-.113.42-.113.661v4.034h1.835z"/>
-</svg>
- **LinkedIn**: [@adrian-viciano](https://www.linkedin.com/in/adrian-viciano)
+- 🔗 **LinkedIn**: [@adrian-viciano](https://www.linkedin.com/in/adrian-viciano)
 
 Let's connect, collaborate, and create something amazing! 🤝✨
