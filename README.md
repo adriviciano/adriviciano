@@ -18,7 +18,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Adriviciano&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adriviciano&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriviciano&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=C++,C)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriviciano&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=C++,C&cache_seconds=1)
 
 ### Get in Touch
 - 📫 **Email**: [adriviciano@gmail.com](mailto:adriviciano@gmail.com)
